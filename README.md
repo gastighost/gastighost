@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **next.js, react, node.js**
 
 - I've worked on [Schoolio Mobile Tutoring Application](https://schoolio-application.herokuapp.com/)
+- I'm currently wokring on [Help Local](https://new-in-germany.vercel.app/), a full stack aid application making use of Next.JS, React.JS, and Node.JS.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
