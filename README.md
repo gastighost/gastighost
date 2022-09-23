@@ -7,7 +7,7 @@
 
 - 🌱 I've learned **NextJS, ReactJS, ExpressJS, NodeJS, Redux Toolkit, Javascript, Ruby, Ruby on Rails, MongoDB and PostgreSQL**
 
-- 👯I've also worked on [Cleaningly: An application which connects cleaners in Australia with clients.](https://www.cleaningly.com.au/)
+- 👥I've also worked on [Cleaningly: An application which connects cleaners in Australia with clients.](https://www.cleaningly.com.au/)
 
 - 🤝 I’m looking to improve on **Best Practices with ReactJS and ExpressJS based applications**
 
