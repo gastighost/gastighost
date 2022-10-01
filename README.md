@@ -11,7 +11,6 @@
 
 - 🤝 I’m looking to improve on **Best Practices with ReactJS and ExpressJS based applications**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
