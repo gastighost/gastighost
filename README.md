@@ -11,6 +11,8 @@
 
 - 🤝 I’m looking to improve on **Best Practices with ReactJS and ExpressJS based applications**
 
+- 🤝 Currently learning how to write **Golang Rest API Applications**
+
 <p align="left">
 </p>
 
