@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gastighost" alt="gastighost" /></a> </p>
 
+- 🔭 I’m currently working on [Propertify, A React/NodeJS property finding application](https://real-estate-app-front.herokuapp.com/)
+
 - 🔭 I’ve worked on [Schoolio, a Ruby on Rails Edutech Project](https://schoolio-application.herokuapp.com/)
 
 - 🌱 I've learned **NextJS, ReactJS, ExpressJS, NodeJS, Redux Toolkit, Javascript, Ruby, Ruby on Rails, MongoDB and PostgreSQL**
