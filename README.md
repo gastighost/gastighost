@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gastighost" alt="gastighost" /></a> </p>
 
-- 🔭 I’m currently working on [Propertify, A React/NodeJS property finding application](https://real-estate-app-front.herokuapp.com/)
-- Frontend Repository (https://github.com/gastighost/real-estate-app-frontend)
-- Backend Repository (https://github.com/gastighost/real-estate-app-api)
+- 🔭 I’m currently working on [Farmery, A React/NodeJS farm management application](https://agriculture-app-frontend.herokuapp.com/)
+- Frontend Repository (https://github.com/gastighost/agriculture-app-frontend)
+- Backend Repository (https://github.com/gastighost/agriculture-app-backend)
 
 - 🔭 I’ve worked on [Schoolio, a Ruby on Rails Edutech Project](https://schoolio-application.herokuapp.com/)
 
