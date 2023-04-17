@@ -1,21 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gaston</h1>
-<h3 align="center">A Junior Full Stack Developer</h3>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gastighost" alt="gastighost" /></a> </p>
 
-- 🔭 I’m currently working on [Farmery, A React/NodeJS farm management application](https://agriculture-app-frontend.herokuapp.com/)
-- Frontend Repository (https://github.com/gastighost/agriculture-app-frontend)
-- Backend Repository (https://github.com/gastighost/agriculture-app-backend)
-
-- 🔭 I’ve worked on [Schoolio, a Ruby on Rails Edutech Project](https://schoolio-application.herokuapp.com/)
-
-- 🌱 I've learned **NextJS, ReactJS, ExpressJS, NodeJS, Redux Toolkit, Javascript, Ruby, Ruby on Rails, MongoDB and PostgreSQL**
-
-- 👥I've also worked on [Cleaningly: A home service application based in Australia.](https://console.cleaningly.com.au/)
-
-- 🤝 I’m looking to improve on **Best Practices with ReactJS and ExpressJS based applications**
-
-- 🤝 Currently learning how to write **Golang Rest API Applications**
 
 <p align="left">
 </p>
