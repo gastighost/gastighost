@@ -1,4 +1,4 @@
-<h3>Mock Agriculture App</h3>
+<h3>Mock Agriculture App (Personal Project)</h3>
 
 <p>Welcome to the Agriculture App! This app connects farmers and agricultural enthusiasts, providing tools and resources for efficient farming practices.</p>
 
