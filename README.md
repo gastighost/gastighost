@@ -1,14 +1,3 @@
-<h3>Mock Agriculture App (Personal Project)</h3>
-
-<p>Welcome to the Agriculture App! This app connects farmers and agricultural enthusiasts, providing tools and resources for efficient farming practices.</p>
-
-<p>🌱 Check out the <a href="https://agriculture-app-frontend.herokuapp.com/" target="_blank" rel="noopener noreferrer">Agriculture App</a> 🌱</p>
-
-<p>🔗 You can find the source code for the frontend on <a href="https://github.com/gastighost/agriculture-app-frontend" target="_blank" rel="noopener noreferrer">GitHub</a>.</p>
-
-<p>⚙️ The backend code is available on <a href="https://github.com/gastighost/agriculture-app-backend" target="_blank" rel="noopener noreferrer">GitHub</a>.</p>
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gastighost" alt="gastighost" /></a> </p>
 
 
