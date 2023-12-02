@@ -1,16 +1,16 @@
 <h2 align="left">Sample Personal Project</h2>
 <p align="left">
-  <a href="https://agriculture-app-frontend-54a55118666e.herokuapp.com/">https://agriculture-app-frontend-54a55118666e.herokuapp.com/</a>
+  <a href="https://agriculture-app-frontend-54a55118666e.herokuapp.com/" style="text-decoration: none;">Mock agriculture application</a>: A mock farm application for managing agribusinesses.
 </p>
 
 <h3 align="left">Frontend repo</h3>
 <p align="left">
-  <a href="https://github.com/gastighost/agriculture-app-frontend">Frontend Repo</a>
+  <a href="https://github.com/gastighost/agriculture-app-frontend" style="text-decoration: none;">Frontend Repo</a>
 </p>
 
 <h3 align="left">Backend repo</h3>
 <p align="left">
-  <a href="https://github.com/gastighost/agriculture-app-backend">Backend Repo</a>
+  <a href="https://github.com/gastighost/agriculture-app-backend" style="text-decoration: none;">Backend Repo</a>
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gastighost" alt="gastighost" /></a> </p>
