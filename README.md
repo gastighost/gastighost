@@ -1,3 +1,24 @@
+Sample Personal Project:
+https://agriculture-app-frontend-54a55118666e.herokuapp.com/
+
+Frontend repo: https://github.com/gastighost/agriculture-app-frontend
+Backend repo: https://github.com/gastighost/agriculture-app-backend
+
+<h2 align="left">Sample Personal Project</h2>
+<p align="left">
+  <a href="https://agriculture-app-frontend-54a55118666e.herokuapp.com/">https://agriculture-app-frontend-54a55118666e.herokuapp.com/</a>
+</p>
+
+<h3 align="left">Frontend repo</h3>
+<p align="left">
+  <a href="https://github.com/gastighost/agriculture-app-frontend">Frontend Repo</a>
+</p>
+
+<h3 align="left">Backend repo</h3>
+<p align="left">
+  <a href="https://github.com/gastighost/agriculture-app-backend">Backend Repo</a>
+</p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gastighost" alt="gastighost" /></a> </p>
 
 
