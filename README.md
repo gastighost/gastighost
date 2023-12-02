@@ -1,9 +1,3 @@
-Sample Personal Project:
-https://agriculture-app-frontend-54a55118666e.herokuapp.com/
-
-Frontend repo: https://github.com/gastighost/agriculture-app-frontend
-Backend repo: https://github.com/gastighost/agriculture-app-backend
-
 <h2 align="left">Sample Personal Project</h2>
 <p align="left">
   <a href="https://agriculture-app-frontend-54a55118666e.herokuapp.com/">https://agriculture-app-frontend-54a55118666e.herokuapp.com/</a>
